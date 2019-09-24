@@ -1,2 +1,2 @@
 # html-course
-I'm learning the bacics of HTML
+I'm learning the basics of HTML
